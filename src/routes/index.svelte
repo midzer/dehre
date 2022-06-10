@@ -1,4 +1,1 @@
-<script>
-import { page } from '$app/stores';
-</script>
-<h1>Habe d'Ehre!</h1>
+<h1>Habe die Ehre!</h1>
